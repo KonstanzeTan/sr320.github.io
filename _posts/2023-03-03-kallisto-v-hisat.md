@@ -15,4 +15,4 @@ TLDR
 |------------|------------|------------|------------|------------|------------|
 | Amil_v2.1          | "p_pseudoaligned": 84.9, "p_unique": 82.2 | 76.02% overall alignment rate | 76.00% overall alignment rate |      |      |
 | Adig_1.1           | "p_pseudoaligned": 72.8,"p_unique": 69.8  |                               |                               |      |      |
-| Ahyacinthus.chrsV1 | "p_pseudoaligned": 82.1,"p_unique": 80.4  |                               | 68.10% overall alignment rate |      |      |
+| Ahyacinthus.chrsV1 | "p_pseudoaligned": 82.1,"p_unique": 80.4  | 57.46% overall alignment rate | 68.10% overall alignment rate |      |      |
